@@ -1,0 +1,6 @@
+{
+  "name": "CAPACITY CONNECT",
+  "description": "Digital Capacity Building & Learning Management Portal with competency development, skill-gap analysis, assessments, certifications, and knowledge sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
